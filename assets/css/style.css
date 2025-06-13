@@ -23,6 +23,13 @@ h6 {
   font-family: "Raleway", sans-serif;
 }
 
+#text-presentation{
+            font-weight: bold;
+            color: black;
+            text-align: justify;
+            opacity: 0.8; /* Opacidad del texto */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Sombra del texto */
+}
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
